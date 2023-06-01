@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on JAVA
-- 🌱 I’m currently learning WebDevelpment
+- 🔭 I’m currently working on JAVA.
+- 🌱 I’m a postgraduate in Tongji Univerity in ShangHai.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
