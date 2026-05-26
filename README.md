@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on computer technology.
-- 🌱 I’m a postgraduate in Tongji Univerity in ShangHai.
-- 📫 Welcome to contact with me.
+- 🔭 23333333333
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
